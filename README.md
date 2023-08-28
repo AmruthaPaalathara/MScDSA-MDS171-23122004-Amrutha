@@ -9,3 +9,4 @@
  |**Sl.No**|**Date**|**Name**|
  |:-------:|:--------:|:-------:|
  |1.|23/08/23|Write a programme to print your name and push it to github|
+ |2.|28/08/23|The Name Collector's Quest|
