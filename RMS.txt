@@ -1,0 +1,41 @@
+Today's orderToday's order
+ Enter the name of the customer: Naveen
+ Enter the phone number of the customer: 9074377320
+ Enter the dish the customer ordered: biriyani
+ Enter the quantity of the food the customer bought: 2Today's order
+ Enter the name of the customer: 
+ Enter the phone number of the customer: 
+ Enter the dish the customer ordered: 
+ Enter the quantity of the food the customer bought: Today's order
+ Enter the name of the customer: 
+ Enter the phone number of the customer: 
+ Enter the dish the customer ordered: 
+ Enter the quantity of the food the customer bought: Today's order
+ Enter the name of the customer: arjun
+ Enter the phone number of the customer: 9457698210
+ Enter the dish the customer ordered: salad
+ Enter the quantity of the food the customer bought: 1Today's order
+ Enter the name of the customer: nskd
+ Enter the phone number of the customer: 65659
+ Enter the dish the customer ordered: dsda
+ Enter the quantity of the food the customer bought: 4Today's order
+ Enter the name of the customer: ydgysdf
+ Enter the phone number of the customer: 957532114
+ Enter the dish the customer ordered: dsjhfs
+ Enter the quantity of the food the customer bought: 2Today's order
+ Enter the name of the customer: Arjun
+ Enter the phone number of the customer: 9447393006
+ Enter the dish the customer ordered: Rice
+ Enter the quantity of the food the customer bought: 1Today's order
+ Enter the name of the customer: arun
+ Enter the phone number of the customer: 9421578660
+ Enter the dish the customer ordered: veg biriryani
+ Enter the quantity of the food the customer bought: 5
+ Enter the name of the customer: Eben
+ Enter the phone number of the customer: 9472015648
+ Enter the dish the customer ordered: chicken curry
+ Enter the quantity of the food the customer bought: 5
+ Enter the name of the customer: rohan
+ Enter the phone number of the customer: 9845722564
+ Enter the dish the customer ordered: poha
+ Enter the quantity of the food the customer bought: 4
