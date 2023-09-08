@@ -39,3 +39,7 @@ Today's orderToday's order
  Enter the phone number of the customer: 9845722564
  Enter the dish the customer ordered: poha
  Enter the quantity of the food the customer bought: 4
+ Enter the name of the customer: arun
+ Enter the phone number of the customer: 9845763215
+ Enter the dish the customer ordered: sandwich
+ Enter the quantity of the food the customer bought: 2
