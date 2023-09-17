@@ -13,4 +13,5 @@
  |3.|01/09/23|The Tale of Number's Harmony|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
  |4.|04/09/23|The Taste of success|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
  |5.|09/09/22|Mix & Match Calculator|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
- |6.|17/09/22|My Menu Driven Restaurant|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
+ |6.|17/09/22|Vowel Counter!|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
+ |7.|17/09/22|My Menu Driven Restaurant|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
