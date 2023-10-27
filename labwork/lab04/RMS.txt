@@ -102,3 +102,20 @@
  Enter the price of the dish: 120
  Grand total: 240
 Total total:540
+
+
+ Enter the name of the customer: Rahul
+ Enter the phone number of the customer: 98745612310
+ Enter the dish the customer ordered: Sadya
+ Enter the quantity of the food the customer bought: 1
+ Enter the price of the dish: 150
+ Grand total: 150
+
+
+ Enter the name of the customer: Rahul
+ Enter the phone number of the customer: 98745612310
+ Enter the dish the customer ordered: Chicken biriyani
+ Enter the quantity of the food the customer bought: 1
+ Enter the price of the dish: 190
+ Grand total: 190
+Total total:340
