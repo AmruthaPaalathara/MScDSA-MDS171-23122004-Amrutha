@@ -1,0 +1,104 @@
+
+ Enter the name of the customer: Krish
+ Enter the phone number of the customer: 134
+ Enter the dish the customer ordered: fish curry
+ Enter the quantity of the food the customer bought: 1
+ Enter the name of the customer: gokul
+ Enter the phone number of the customer: 165
+ Enter the dish the customer ordered: beef olathiyathu
+ Enter the quantity of the food the customer bought: 3
+ Enter the name of the customer: Krish
+ Enter the phone number of the customer: 123
+ Enter the dish the customer ordered: Chicken biriyani
+ Enter the quantity of the food the customer bought: 2
+ Enter the price of the dish: 150
+ Grand total: 300
+
+
+ Enter the name of the customer: manoj
+ Enter the phone number of the customer: 165
+ Enter the dish the customer ordered: sadya
+ Enter the quantity of the food the customer bought: 1
+ Enter the price of the dish: 150
+ Grand total: 150
+
+
+ Enter the name of the customer: amru
+ Enter the phone number of the customer: 132
+ Enter the dish the customer ordered: ham
+ Enter the quantity of the food the customer bought: 1
+ Enter the price of the dish: 150
+ Grand total: 150
+
+
+ Enter the name of the customer: kishor
+ Enter the phone number of the customer: 143
+ Enter the dish the customer ordered: kappa meen curry
+ Enter the quantity of the food the customer bought: 1
+ Enter the price of the dish: 70
+ Grand total: 70
+
+
+ Enter the name of the customer: arun
+ Enter the phone number of the customer: 143
+ Enter the dish the customer ordered: kappa meen currry
+ Enter the quantity of the food the customer bought: 1
+ Enter the price of the dish: 50
+ Grand total: 50
+
+
+ Enter the name of the customer: arun
+ Enter the phone number of the customer: 143
+ Enter the dish the customer ordered: biriyani
+ Enter the quantity of the food the customer bought: 2
+ Enter the price of the dish: 150
+ Grand total: 300
+
+
+ Enter the name of the customer: sad
+ Enter the phone number of the customer: 9785
+ Enter the dish the customer ordered: sd
+ Enter the quantity of the food the customer bought: 5
+ Enter the price of the dish: 21
+ Grand total: 105
+
+
+ Enter the name of the customer: sad
+ Enter the phone number of the customer: 9785
+ Enter the dish the customer ordered: d
+ Enter the quantity of the food the customer bought: 6
+ Enter the price of the dish: 12
+ Grand total: 72
+
+
+ Enter the name of the customer: prabakaran
+ Enter the phone number of the customer: 145
+ Enter the dish the customer ordered: sadya
+ Enter the quantity of the food the customer bought: 1
+ Enter the price of the dish: 150
+ Grand total: 150
+
+
+ Enter the name of the customer: prabakaran
+ Enter the phone number of the customer: 145
+ Enter the dish the customer ordered: Chicken biriyani
+ Enter the quantity of the food the customer bought: 2
+ Enter the price of the dish: 150
+ Grand total: 300
+
+
+ Enter the name of the customer: Dasappan
+ Enter the phone number of the customer: 159
+ Enter the dish the customer ordered: Sadya
+ Enter the quantity of the food the customer bought: 2
+ Enter the price of the dish: 150
+ Grand total: 300
+
+
+ Enter the name of the customer: Dasappan
+ Enter the phone number of the customer: 159
+ Enter the dish the customer ordered: Chicken biriyani
+ Enter the quantity of the food the customer bought: 2
+ Enter the price of the dish: 120
+ Grand total: 240
+Total total:540
