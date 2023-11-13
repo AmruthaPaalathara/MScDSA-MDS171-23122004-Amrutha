@@ -12,6 +12,9 @@
  |2.|28/08/23|The Name Collector's Quest|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
  |3.|01/09/23|The Tale of Number's Harmony|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
  |4.|04/09/23|The Taste of success|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
- |5.|09/09/22|Mix & Match Calculator|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
- |6.|17/09/22|Vowel Counter!|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
- |7.|17/09/22|My Menu Driven Restaurant|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
+ |5.|09/09/23|Mix & Match Calculator|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
+ |6.|17/09/23|Vowel Counter!|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
+ |7.|17/09/23|My Menu Driven Restaurant|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
+ |8.|
+ |9.|22/09/2023|Expense Tracker|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
+ |10.|26/10/2023|Students Details|https://github.com/AmruthaPaalathara/MScDSA-MDS171-23122004-Amrutha.git|
